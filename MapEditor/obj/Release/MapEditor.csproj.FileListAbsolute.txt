@@ -1,0 +1,9 @@
+C:\Public\MapEditor\MapEditor\obj\Release\ResolveAssemblyReference.cache
+C:\Public\MapEditor\MapEditor\obj\Release\MapEditor.Form1.resources
+C:\Public\MapEditor\MapEditor\obj\Release\MapEditor.Properties.Resources.resources
+C:\Public\MapEditor\MapEditor\obj\Release\MapEditor.csproj.GenerateResource.Cache
+C:\Public\MapEditor\MapEditor\bin\Release\MapEditor.exe
+C:\Public\MapEditor\MapEditor\bin\Release\MapEditor.pdb
+C:\Public\MapEditor\MapEditor\obj\Release\MapEditor.exe
+C:\Public\MapEditor\MapEditor\obj\Release\MapEditor.pdb
+C:\Public\MapEditor\MapEditor\obj\Release\MapEditor.NewMap.resources

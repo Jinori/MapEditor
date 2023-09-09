@@ -1,0 +1,8 @@
+bin\Debug\MapEditor.exe
+bin\Debug\MapEditor.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MapEditor.Form1.resources
+obj\Debug\MapEditor.Properties.Resources.resources
+obj\Debug\MapEditor.csproj.GenerateResource.Cache
+obj\Debug\MapEditor.exe
+obj\Debug\MapEditor.pdb
